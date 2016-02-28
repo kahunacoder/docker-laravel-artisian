@@ -1,6 +1,6 @@
 FROM php:5.6-cli
 
-#MAINTAINER "Dylan Lindgren" <dylan.lindgren@gmail.com>
+MAINTAINER "Gary Smith" <docker@kc.gs>
 
 WORKDIR /tmp
 
