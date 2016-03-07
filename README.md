@@ -5,8 +5,10 @@ Installs these php extensions and their dependencies.
  * gd
  * mcrypt
 
-## Docker Compose
+## Docker Compose Config
+
 docker-compose.yml
+
 ```
 ...
 artisan:  
@@ -19,8 +21,11 @@ artisan:
 
 ```
 
-## Usage
-List example using docker compose.
+
+### Usage
+
+Artisan list example using docker compose.
+
 ```
 docker-compose run --rm artisan list
 ```
